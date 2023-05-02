@@ -9,14 +9,8 @@ import Image from "next/image";
 export default function App() {
   return (
     <>
-      <h1 id="id_for_universal_embedder_e2e_test">My Homepage</h1>
-      {/* <Image
-        id="id_for_universal_embedder_e2e_test"
-        src="/../public/Profile.png"
-        alt="Picture of the author"
-        width={500}
-        height={500}
-      /> */}
+      <h1 id="id_for_universal_embedder_e2e_test">My Homepage 11</h1>
+
       <p>Welcome to my homepage!</p>
     </>
   );
